@@ -1,0 +1,39 @@
+body{
+    background-color: rgb(89, 153, 226);
+}
+
+.container{
+    /* display: flex; */
+    position: absolute;
+    width: 70%;
+    margin: 110px;
+    padding:20px;
+    background-color: white;
+}
+.red{
+    display: inline-block;
+    float:left;
+    background-color:red;
+    margin:10px;
+    width: 110px;
+    height: 110px;
+    padding: 10px;
+}
+
+.green{
+    float:left;
+    margin:10px;
+    background-color:green;
+    width: 110px;
+    height: 110px;
+    padding: 10px;
+}
+
+.blue{
+    float:left;
+    margin:10px;
+    background-color:blue;
+    width: 110px;
+    height: 110px;
+    padding: 10px;
+}
